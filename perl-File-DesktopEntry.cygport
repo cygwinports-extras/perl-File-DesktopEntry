@@ -1,12 +1,12 @@
-CPAN_AUTHOR=pardus
+CPAN_AUTHOR=michielb
 inherit perl
 
 NAME="perl-File-DesktopEntry"
-VERSION=0.04
+VERSION=0.08
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl XDG Desktop Entry Specification module"
 DESCRIPTION="This module can be used to work with .desktop files as specified
 by the Freedesktop.org Desktop Entry Specification."
 
-SRC_URI="${SRC_URI%/*}/${ORIG_PN}/${ORIG_PN}-${PV}.tar.gz"
+ARCH=noarch
