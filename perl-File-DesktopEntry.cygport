@@ -2,7 +2,7 @@ CPAN_AUTHOR=michielb
 inherit perl
 
 NAME="perl-File-DesktopEntry"
-VERSION=0.08
+VERSION=0.12
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl XDG Desktop Entry Specification module"
